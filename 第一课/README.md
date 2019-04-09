@@ -355,7 +355,7 @@ B：____、小野です。
 
 12、＿＿＿は　佐藤先生です。
 
-A、わたし　B、僕　<font color="red">C、あなた</font>　D、こちら
+A、わたし　B、僕　C、あなた　<font color="red">D、こちら</font>
 
 13、A：どうぞ　よろしく　お願いします。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
