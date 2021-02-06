@@ -9,4 +9,6 @@
 | 02  | [第二课 これわ　家族の　写真です](https://www.jianshu.com/p/ed3becaf54d4) |  |
 | 03  | [第三课 自習室は　五階に  あります](https://www.jianshu.com/p/197325105e5d) |  |
 | 04  | [第四课 ギョーザは　8個(はっこ)で　５００円(ごひゃくえん)です](https://www.jianshu.com/p/ac7aaeaab49c) |  |
+| 05  | [第一单元 总结](https://www.jianshu.com/p/b4ec82116b4b) |  |
+| 06  | [第五课 今朝「けさ」　７「しち」時「じ」に　起「お」きました](https://www.jianshu.com/p/f6c87c435825) |  |
 
